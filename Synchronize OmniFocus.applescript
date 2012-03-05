@@ -1,5 +1,4 @@
--- Create a new note in Evernote from text passed by LaunchBar
--- New note is formatted as a quotation and saved to "Quotable" notebook
+-- Synchronize OmniFocus document with remote server
 -- Copyright © 2012 by Jeremy Reichman
 --
 -- Permission is hereby granted, free of charge, to any person obtaining a
